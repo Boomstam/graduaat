@@ -1,0 +1,26 @@
+html {
+        font-family: "Source Sans Pro", Arial, "Helvetica Neue", Arial, Helvetica, sans-serif;
+      }
+      h1{
+        font-size: 24px;
+        line-height: 26px;
+        color: #f04c25;
+        font-weight: 600;
+      }
+      h2{
+        font-size: 18px;
+        line-height: 20px;
+        color: #009cab;
+        font-weight: normal;
+      }
+      p{
+        font-size: 14px;
+        line-height: 20px;
+        color: #111111;
+        font-weight: 300;
+        width: 960px;
+      }
+      figure{
+        float: left;
+        margin: 0 20px 20px 0;
+      }

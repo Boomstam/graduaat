@@ -1,0 +1,22 @@
+body {
+	font-family: "Peddana";
+	font-size: 20px;
+  }
+.task {
+	display: flex;
+}
+
+.finished {
+	scale: 2;
+	margin: 20px;
+}
+
+.taskHolder{
+	display: flex;
+}
+
+.addButton {
+	scale: 2;
+	margin: 20px;
+	display: block;
+}
